@@ -1,6 +1,6 @@
 # Development project checking
 
-This tool search for every python project defined as:
+This tool searchs for every python project defined as:
 
 -   a folder with a valid `env` folder
 -   a folder with any `.py` file inside it
@@ -17,3 +17,4 @@ And checks for:
 ## To Do
 
 -   [ ] Add support for javascript projects
+-   [ ] Add support for github remote detection
